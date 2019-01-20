@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "995994151387",
+    "firebase_url": "https://helpone-87cbb.firebaseio.com",
+    "project_id": "helpone-87cbb",
+    "storage_bucket": "helpone-87cbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995994151387:android:0f56d5f423c797d4",
+        "android_client_info": {
+          "package_name": "com.tenas.helpone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995994151387-2b3bsta82c0so392dor9vgmpng1fr34s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tenas.helpone",
+            "certificate_hash": "f46099f72215850ce72d59e408b27aa453df0814"
+          }
+        },
+        {
+          "client_id": "995994151387-gdmusp4prph5nr340756mpr2ntlu3j9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMOB3edAFOFFVsI8T5TNZ9pyd4M5Yl31A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995994151387-gdmusp4prph5nr340756mpr2ntlu3j9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
